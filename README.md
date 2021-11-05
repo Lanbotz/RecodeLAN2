@@ -17,7 +17,7 @@
 ```json
 {
     "owner": [
-        "6285892766102@s.whatsapp.net"
+        "6282192013714@s.whatsapp.net"
     ],
     "prefix": "#",
     "lang": "ind",
